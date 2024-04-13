@@ -35,11 +35,11 @@ Una vez instaladas las dependencias, puedes ejecutar el programa de la siguiente
 
 - **Clonar el Repositorio**:
   ```bash
-  git clone https://github.com/tu_usuario/tu_repositorio.git
+  git clone https://github.com/marcosstgo/heictojpg.git
   ```
 - **Navega al directorio del proyecto**:
   ```bash
-  cd tu_repositorio
+  cd heictojpg
   ```
 - **Iniciar el Programa**:
   ```bash

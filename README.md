@@ -1,4 +1,4 @@
-****![image](https://github.com/marcosstgo/heictojpg/assets/50328367/b60de192-b374-41ec-ba2e-407e08ba4e65)
+![image](https://github.com/marcosstgo/heictojpg/assets/50328367/10a8e0e3-8c9a-45c8-9c1a-1f1df3809df8)
 
 
 ### Dependencias
